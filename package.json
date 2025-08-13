@@ -1,0 +1,21 @@
+{
+  "name": "day-sum-solution",
+  "version": "1.0.0",
+  "description": "Solution that converts date-based values into weekday sums and fills missing days with mean values",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "date",
+    "weekday",
+    "algorithm",
+    "jest"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
